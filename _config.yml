@@ -1,23 +1,23 @@
 # Site settings
-title: 咕咚
-SEOTitle: 咕咚的个人站点
+title: 徐生梅
+SEOTitle: 徐生梅的个人站点
 header-img: assets/header/header_image_mounting.jpg
 # default post header image
 header-img-post: assets/header/header_image_post.jpg
 theme_color: "#607D8B"
 email: gudong.name@gmail.com
-description: "Android Developer 关注移动开发 独立开发者 篮球粉"
-keyword: "咕咚 咕咚翻译 毛瑞斌 大侠咕咚 咕咚的博客 徐生梅的男朋友 甘肃"
-url: "http://gudong.name"              # your host, for absolute URL
+description: "Android Developer 数据分析 学习者 自学python"
+keyword: "徐生梅"
+url: "http://xushengmei.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # SNS settings
 RSS: false
-twitter_username:   maoruibin9035
-weibo_username:     maoruibin
-zhihu_username:     maoruibin
-github_username:    maoruibin
+
+weibo_username:    
+zhihu_username:     徐生梅
+github_username:   xushengmei
 # facebook_username:
 
 # Build settings
