@@ -15,8 +15,8 @@ baseurl: ""                             # for example, '/blog' if your blog host
 # SNS settings
 RSS: false
 
-weibo_username:    
-zhihu_username:     徐生梅
+weibo_username:    shengmei8901
+zhihu_username:    xushengmei
 github_username:   xushengmei
 # facebook_username:
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: maoruibin
+duoshuo_username: xushengemi
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -59,8 +59,8 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Baidu Analytics
 ba_track_id: de1df75db196971264bd87815c96f646
 # Google Analytics
-ga_track_id: 'UA-64640288-1'            # Format: UA-xxxxxx-xx
-ga_domain: gudong.name
+
+
 
 
 
@@ -80,28 +80,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "技术小黑屋",
-        href: "http://droidyue.com/"
-    },{
-        title: "Drakeet",
-        href: "http://drakeet.me"
-    },{
-        title: "代码家",
-        href: "http://blog.daimajia.com"
-    },{
-        title: "五道口宅男",
-        href: "http://hujiaweibujidao.github.io/"
-    },{
-        title: "汤奇",
-        href: "http://itangqi.me/"
-    },{
-        title: "吴小龙同学",
-        href: "http://wuxiaolong.me/"
-    },{
-        title: "程序亦非猿",
-        href: "http://yifeiyuan.me/"
-    },{
-        title: "Ailurus",
-        href: "http://www.easydone.cn/"
+        title: "咕咚",
+        href: "http://gudong.name/"
     }
 ]
